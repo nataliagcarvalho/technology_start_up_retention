@@ -10,20 +10,20 @@ In order to answer the business questions and help the stakeholders to take deci
 
 ***
 
+# Dataset
+
+We have 2 datasets: 1 that contains 28 columns with the informations: client name, status, month of registrations, abandon month, 2 years (2019 and 2020) separated by months and the other dataset contains 12 columns with the informations: client name, status, month of registrations, abandon month and 2 years (2019 and 2020) separated by quarters.
+
+This project is at <a href="https://www.kaggle.com/datasets/datacertlaboratoria/projeto-2-reteno-de-startup-tecnolgica">kaggle</a>.
+
+***
+
 # Product-Market Fit
 
 The Product-Market Fit (PMF) is to determine if the product had already found a faithful space at the market. When the business achives the PMF, it means that it has already its loyalt customers, the clients search for the product by their own because they want and need to.
 
 "The customers are buying the product just as fast as you can make it -- or usage is growing just as fast as you can add more servers. Money from customers is piling up in your company checking account. You're hiring sales and customer support staff as fast as you can." 
 (Marc Adreessen, founder of Netscape, the first internet brownser)
-
-***
-
-# Dataset
-
-We have 2 datasets: 1 that contains 28 columns with the informations: client name, status, month of registrations, abandon month, 2 years (2019 and 2020) separated by months and the other dataset contains 12 columns with the informations: client name, status, month of registrations, abandon month and 2 years (2019 and 2020) separated by quarters.
-
-This project is at <a href="https://www.kaggle.com/datasets/datacertlaboratoria/projeto-2-reteno-de-startup-tecnolgica">kaggle</a>.
 
 ***
 
