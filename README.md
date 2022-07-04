@@ -1,5 +1,7 @@
 # Technology Start-Up Retention
 
+<a href="https://docs.google.com/spreadsheets/d/1nhep1Y2B5Q1BZo1Bnfg4xvkraRzmRU-pzn2DZhkNzRI/edit?usp=sharing">Presentation link</a>
+
 ***
 
 This is a project from the Laboratoria & IBM Certification.
@@ -92,4 +94,4 @@ To give a specific and data-driven decision to the CEO, we must understand what 
 
 Based on this and the whole analysis, the CEO's recomendation is to don't improve the marketing budget because they still haven't achieved the PMF. They are supposed to use this budget to improve their product.
 
-<a href="https://docs.google.com/spreadsheets/d/1nhep1Y2B5Q1BZo1Bnfg4xvkraRzmRU-pzn2DZhkNzRI/edit?usp=sharing">Presentation link</a>
+
