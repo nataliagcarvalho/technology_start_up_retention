@@ -33,4 +33,8 @@ Using the cohort analysis, it's possible to find the % retention of clients. In 
 
 So with this monthly dataset, I did a dinamyc table to see monthly the new clients's number in order to find this % retention.
 
+![Captura de Tela (922)](https://user-images.githubusercontent.com/106877571/177203717-ad0bb299-9260-4a90-a5e2-20a2d96971c7.png)
+
+I did a query: =QUERY('Tabela dinâmica 1-mes'!C2:Z$25;"SELECT * LIMIT 1") and add line by line to have a better view of the number.
+
 
