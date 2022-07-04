@@ -37,4 +37,8 @@ So with this monthly dataset, I did a dinamyc table to see monthly the new clien
 
 I did a query: =QUERY('Tabela dinâmica 1-mes'!C2:Z$25;"SELECT * LIMIT 1") and add line by line to have a better view of the number.
 
+![Captura de Tela (923)](https://user-images.githubusercontent.com/106877571/177204410-eecda666-2f27-43bf-ab0f-2dffa7aaa741.png)
+
+And with these numbers, dividing the new clients by month from the total in the cohort, I found the % retention:
+
 
