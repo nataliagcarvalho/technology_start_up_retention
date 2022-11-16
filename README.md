@@ -35,11 +35,15 @@ Cohort is a group of people that share similar characteristics during a specific
 
 Using the cohort analysis, it's possible to find the % retention of clients. In other words, how many of these new clients keep using the product for a specific time. It is one of the ways to understand if the PMF was achieved. The higher the rate, the greater the customer loyalty.
 
-So with this monthly dataset, I did a dinamyc table to see monthly the new clients's number in order to find this % retention.
+So with this monthly dataset, I did a dinamyc table to see monthly the new clients' number in order to find this % retention.
 
 ![Captura de Tela (922)](https://user-images.githubusercontent.com/106877571/177203717-ad0bb299-9260-4a90-a5e2-20a2d96971c7.png)
 
-I did a query: =QUERY('Tabela dinâmica 1-mes'!C2:Z$25;"SELECT * LIMIT 1") and add line by line to have a better view of the number.
+I did a query and add line by line to have a better view of the number.
+```
+=QUERY('Tabela dinâmica 1-mes'!C2:Z$25;"SELECT * LIMIT 1") 
+```
+
 
 ![Captura de Tela (923)](https://user-images.githubusercontent.com/106877571/177204410-eecda666-2f27-43bf-ab0f-2dffa7aaa741.png)
 
